@@ -1,0 +1,19 @@
+.todo-button {
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .todo-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .todo-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
